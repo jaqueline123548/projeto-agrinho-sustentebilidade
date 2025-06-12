@@ -1,0 +1,8 @@
+ <style>
+        /* Define a fonte Inter para todo o corpo do documento para uma leitura agradável */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0fdfa; /* Um verde-água bem clarinho */
+            color: #0d5f46; /* Um verde escuro para o texto principal */
+        }
+    </style>
